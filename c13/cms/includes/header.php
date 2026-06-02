@@ -31,6 +31,10 @@
             <li><a href="search.php">
               <span class="icon-search"></span><span class="search-text">Search</span>
             </a></li>
+            <li><a href="./admin/index.php">Admin</a></li>
+            <!-- "../" = 현재 폴더로 가고 페이지를 표시 -->
+            <!-- "./" = 현재 폴더로 가고 페이지를 표시 -->
+            <!-- "/" = root 폴더로 가고 페이지를 표시 -->
           </ul>
         </nav>
       </div><!-- /.container -->
